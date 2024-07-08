@@ -1,4 +1,4 @@
 #!/usr/bin/python3
 for k in range (97, 123):
-    if chr(k) != 'e' chr(k) != 'q':
+    if chr(k) != 'e' && chr(k) != 'q':
     print("{}".format(chr(k)), end="")
